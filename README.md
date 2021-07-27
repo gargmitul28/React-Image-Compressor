@@ -5,8 +5,8 @@
  A simple image compressor built with **react** and **browser-image-compression.**
  
 # Built With
-ReactJS
-React Bootstrap
-Browser Image Compression
+1. ReactJS
+2. React Bootstrap
+3. Browser Image Compression
  
 
