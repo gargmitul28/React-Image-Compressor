@@ -5,8 +5,8 @@
  A simple image compressor built with **react** and **browser-image-compression.**
  
 # Functionalities
-. Compress Image By Reducing Resolution and Size
-. Offline Compression
+1. Compress Image By Reducing Resolution and Size
+2. Offline Compression
  
  
 # Built With
