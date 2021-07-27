@@ -4,6 +4,11 @@
 
  A simple image compressor built with **react** and **browser-image-compression.**
  
+# Functionalities
+. Compress Image By Reducing Resolution and Size
+. Offline Compression
+ 
+ 
 # Built With
 1. ReactJS
 2. React Bootstrap
